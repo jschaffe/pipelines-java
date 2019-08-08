@@ -1,4 +1,6 @@
 
+[![Build Status](https://jschaffemsft.visualstudio.com/jsScrum/_apis/build/status/jschaffe.pipelines-java?branchName=master)](https://jschaffemsft.visualstudio.com/jsScrum/_build/latest?definitionId=9&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
