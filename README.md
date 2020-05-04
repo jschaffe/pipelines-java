@@ -1,5 +1,5 @@
 
-[![Build Status](https://jschaffemsft.visualstudio.com/jsScrum/_apis/build/status/jschaffe.pipelines-java?branchName=master)](https://jschaffemsft.visualstudio.com/jsScrum/_build/latest?definitionId=9&branchName=master)
+[![Build Status](https://jschaffe.visualstudio.com/LaunchDarkly/_apis/build/status/jschaffe.pipelines-java?branchName=master)](https://jschaffe.visualstudio.com/LaunchDarkly/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
